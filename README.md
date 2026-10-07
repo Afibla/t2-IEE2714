@@ -62,33 +62,7 @@ P1_FiltroGaussiano.ipynb
 
 ---
 
-# Pregunta 2 — Ecualización local y control de contraste
-
-El notebook `P2_Ecualizacion.ipynb` responde la pregunta 2.
-
-La organización es:
-
-```text
-P2_Ecualizacion.ipynb
-
-├── Implementación
-│   ├── calcular_cdf()
-│   ├── control_contraste()
-|   └──ecualizacion_local()
-│
-└── Análisis y exploración
-    ├── 1. Verificación de ecualización global
-    ├── 2. Tamaño regiones y distancia entre regiones
-    ├── 3. Número de bins
-    ├── 4. Control de contraste
-    ├── 5. Comparación con CLAHE
-    ├── 6. Caso problemático
-    ├── 7. Artefactos en fronteras
-    └── 8. Exploración adicional
-
-```
-
-La implementación utiliza `NumPy` para las operaciones sobre arreglos y `Matplotlib` para la visualización. `scikit-image` se utiliza para lectura de imágenes y, cuando corresponde, para la referencia externa de CLAHE y otras funciones permitidas por el enunciado.
+# Pregunta 2 — 
 
 
 # Librerías utilizadas
